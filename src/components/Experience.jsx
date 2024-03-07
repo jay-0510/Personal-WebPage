@@ -72,9 +72,9 @@ const Experience = () => {
       },
       {
         id: 8,
-        src: C,
+        src: C, 
         title: "C++",
-        style: "shadow-blue-400",
+        style: "shadow-white-400",
       },
       {
         id: 8,

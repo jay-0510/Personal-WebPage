@@ -16,9 +16,9 @@ const Home = () => {
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
             I am Currently Web Developer & loves to build websites & pages.
-            Currently, I love to work on web application using technologies like
-            React, Tailwind, Next JS and Node JS.
-            Python Enthusisastic & Cloud AWS learner, Learning & Exploring new things
+            Currently, I love to work on web application using technologies like Js
+            ,React, Tailwind, Next JS and Node JS.
+            Python Enthusisastic & Cloud AWS learner, Learning & Exploring new things! 
           </p>
 
           <div>
@@ -40,7 +40,7 @@ const Home = () => {
           <img
             src={HeroImage}
             alt="my profile"
-            className="rounded-2xl mx-auto w-2/3 md:w-full"
+            className="rounded-6xl mx-auto w-2/3 md:w-medium"
           />
         </div>
       </div>

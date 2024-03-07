@@ -14,23 +14,21 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-         Myself Jay Patel, student at Vellore Institute of Technology, Bhopal.
-         Pursuing Computer science 
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+         Myself Jay Patel, student at Vellore Institute of Technology, Bhopal 
+         pursuing Computer Science & Engineering.Highly self motivated student  with a passion for learning and developing software solutions.
+         Innovative and results-driven computer science student with a meticulous approach to problem-solving. 
+         I am a proactive learner committed to continuous growth, serving as a catalyst for innovation within dynamic development environments.Showcasing a forward-thinking mindset and a vision for pioneering solutions in the realm of computer science.
+
+        
         </p>
 
         <br />
 
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+          Along with side of my academics, I love to play football and cricket
+          side by side watching it too. I love to listening music at all my 
+          free time. Part time chess player. Likes to travel new places and 
+          loves to explore new things! 
         </p>
       </div>
     </div>
